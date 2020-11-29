@@ -1,0 +1,28 @@
+.submit__btn {
+  width: 27px;
+  height: 27px;
+  border: none;
+  position: absolute;
+  top: 12px;
+  left: 9px;
+  text-indent: -999999px;
+  background: url('../../../Assets/icons/search.png') no-repeat;
+  background-size: 18px 18px;
+  z-index: 9999999;
+}
+
+.search__input {
+  height: 40px;
+  padding-left: 31px;
+  border-radius: 30px;
+  border: 0.5px solid #FFBB00;
+}
+
+.input-group>.form-control:not(:first-child), .input-group>.custom-select:not(:first-child) {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+input[type="submit"]:focus {
+  outline: 0;
+}

@@ -1,0 +1,6 @@
+.chatListBody {
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 76vh;
+  border-radius: 10px;
+}

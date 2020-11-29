@@ -1,0 +1,15 @@
+.btn-style {
+  border: 1px solid rgba(59, 59, 59, 0.49);
+  border-radius: initial;
+  font-size: 18px;
+  width: 133px;
+  height: 43px;
+}
+
+.btn-style:focus, .btn-style.focus, .box {
+  outline: 0;
+  background: #3B3B3B;
+  ;
+  color: white;
+  border: none;
+}
