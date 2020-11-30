@@ -4,6 +4,7 @@ import img1 from '../../../Assets/images/img1.png';
 import contactImg from '../../../Assets/icons/i.png';
 import dots from '../../../Assets/icons/dots.png';
 import ChatBody from '../ChatBody/ChatBody';
+import ChatFooter from '../ChatFooter/ChatFooter';
 
 
 const Chat = () => {
@@ -32,7 +33,9 @@ const Chat = () => {
       <div className="chat__body">
         <ChatBody />
       </div>
-      <div className="chat__footer"></div>
+      <div className="chat__footer bg-white p-4">
+        <ChatFooter />
+      </div>
     </div>
   );
 };

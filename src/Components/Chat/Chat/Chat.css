@@ -27,7 +27,7 @@
 }
 
 .chat__body {
-  height: 65vh;
+  height: 40vh;
   overflow: scroll;
   overflow-x: hidden;
   background-color: #FFFFFF;

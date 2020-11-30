@@ -1,0 +1,32 @@
+.chatFooter {
+  background: #FFFFFF;
+  border: 0.7px solid #FFBB00;
+  box-sizing: border-box;
+  border-radius: 15px;
+  height: 165px;
+}
+
+.input__style {
+  border: none;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border: none;
+  outline: 0;
+  box-shadow: none;
+}
+
+.chatFoot__bottom {
+  background: #F9F8F8;
+  border-radius: 0px 0px 15px 15px;
+  padding: 10px;
+  margin-top: 48px;
+}
+
+.sendIcon {
+  background: #FFBB00;
+  border-radius: 15px;
+  padding: 5px 25px;
+}
