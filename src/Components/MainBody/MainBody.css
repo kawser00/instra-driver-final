@@ -6,4 +6,21 @@
 
 .mainBody__chatList {
   width: 440px;
+  height: 86vh;
+}
+
+.mainBody__chat {
+  padding: 1.5rem 2rem 1.5rem 0rem!important;
+  height: 86vh;
+}
+
+.chat__btn {
+  background-color: #FFBB00;
+  color: #fff;
+  width: 155px;
+  height: 40px;
+}
+
+.mainBody__chatBody {
+  
 }
