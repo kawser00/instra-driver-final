@@ -1,0 +1,52 @@
+.box-style {
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+  margin: 5px 5px 20px 5px;
+}
+
+.box-blue {
+  background: #E8F5F9;
+}
+
+.box-gray {
+  background: #F9F8F8;
+}
+
+.count {
+  background-color: green;
+  border-radius: 50%;
+  color: #fff;
+  padding: 4px 12px;
+  position: absolute;
+  right: -25px;
+  top: 5px;
+}
+
+.time {
+  right: 20px;
+  position: relative;
+  font-size: 14px;
+}
+
+.id-style {
+  width: 105px;
+  color: #6B6565;
+  background: #EFEBEB;
+  border-radius: 0px 7px 0px 5px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  padding: 2px;
+  font-size: 12px;
+}
+
+.chat__left {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+.chat__right {
+  padding-left: 0px !important;
+}
